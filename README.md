@@ -6,6 +6,9 @@
 </p>
 
 ---
+## 📱 Preview
+
+![VPN Ahvaz](assets/preview.png)
 
 ## 📱 معرفی
 
